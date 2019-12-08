@@ -4,7 +4,7 @@
 ## What is Wordgen ?
 Word Gen is a wordlist generator tool to do bruteforce attack. It's a simple python script to generate wordlist by typing few words.
 
-![unnamed (2)]()
+![unnamed (2)](https://github.com/vpphacker/wordgen/blob/master/IMG_20191209_010635.JPG)
 
 ## Word Gen Avilable For
 * Termux
