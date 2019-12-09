@@ -79,7 +79,7 @@ def wordgen():
 def about():
        os.system("clear")
        print ("\033[1;32m\007\n")
-       os.system("figlet IP-Info | lolcat")
+       os.system("figlet WordGen | lolcat")
        time.sleep(2)
        slowprint ("\033[1;91m -----------------------------------------------")
        slowprint ("\033[1;33m" + "         [+] Tool Name     =>\033[1;36m" + " WordGen")
