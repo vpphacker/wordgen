@@ -42,7 +42,7 @@ Now select 1 option and type 6 or 8 words, tool will guide you.
 www.vpphacker.com
 
 ### YouTube Channel
-https://www.youtube.com/UC6YgRMF9QhwQU7uovvayCzw
+https://www.youtube.com/channel/UC6YgRMF9QhwQU7uovvayCzw
 
 ### Join For Latest Hacking Tricks
 https://t.me/vpphacker
