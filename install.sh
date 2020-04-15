@@ -4,5 +4,5 @@ apt install ruby -y
 gem install lolcat
 echo '
  ==============================================
-|         Now Type python3 ipinfo.py           |
+|         Now Type python3 wordgen.py          |
  =============================================='
